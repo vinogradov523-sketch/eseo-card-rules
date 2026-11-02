@@ -1,0 +1,32 @@
+{
+  "name": "eseo-card-rules",
+  "title": "Требования к карточке товара: Ozon, Wildberries, Яндекс Маркет",
+  "homepage": "https://eseo.su/pravila",
+  "version": "2026-11-02",
+  "licenses": [
+    { "name": "CC-BY-4.0", "path": "https://creativecommons.org/licenses/by/4.0/", "title": "Creative Commons Attribution 4.0" }
+  ],
+  "sources": [{ "title": "ESEO", "path": "https://eseo.su/pravila.csv" }],
+  "resources": [
+    {
+      "name": "pravila",
+      "path": "data/pravila.csv",
+      "format": "csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          { "name": "marketplace", "type": "string" },
+          { "name": "marketplace_name", "type": "string" },
+          { "name": "section", "type": "string" },
+          { "name": "key", "type": "string" },
+          { "name": "value", "type": "string" },
+          { "name": "rule", "type": "string" },
+          { "name": "source_url", "type": "string", "format": "uri" },
+          { "name": "source_domain", "type": "string" },
+          { "name": "verified_at", "type": "date" },
+          { "name": "status", "type": "string" }
+        ]
+      }
+    }
+  ]
+}
