@@ -3,7 +3,7 @@
 Открытый реестр ESEO: требования Ozon, Wildberries и Яндекс Маркета к карточке товара — название, описание,
 фото, видео и баллы качества. У каждого правила — ссылка на справку площадки и дата, когда мы её сверили.
 
-Страница: https://eseo.su/pravila · Обновлён: 01.11.2026 · Правил: 63
+Страница: https://eseo.su/pravila · Обновлён: 02.11.2026 · Правил: 63
 
 ## Требования Ozon к карточке
 
@@ -36,15 +36,15 @@
 
 | Раздел | Значение | Правило | Сверено |
 | --- | --- | --- | --- |
-| Поля карточки | 5 | значений в поле «Цвет», максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
-| Поля карточки | 700 | габариты упаковки — целые числа, не больше, см · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
-| Поля карточки | 12 | значений в поле «Комплектация», максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
-| Поля карточки | 30 | фото в карточке, максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
+| Поля карточки | 5 | значений в поле «Цвет», максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
+| Поля карточки | 700 | габариты упаковки — целые числа, не больше, см · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
+| Поля карточки | 12 | значений в поле «Комплектация», максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
+| Поля карточки | 30 | фото в карточке, максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
 | Поля карточки | 700x900 | минимальное разрешение фото · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/item-photo-rules-recommendations-and-common-mistakes) | 02.08.2026 |
-| Поля карточки | 50-5 000 000 | цена товара — целое число, ₽ · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
-| Поля карточки | 3 | значений в поле «Назначение», максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
-| Поля карточки | 10 | шкала рейтинга заполнения карточки · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/item-filling-rating) | на пересверке |
-| Поля карточки | 60 | максимальная длина наименования, символов · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 16.10.2026 |
+| Поля карточки | 50-5 000 000 | цена товара — целое число, ₽ · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
+| Поля карточки | 3 | значений в поле «Назначение», максимум · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
+| Поля карточки | 10 | шкала рейтинга заполнения карточки · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
+| Поля карточки | 60 | максимальная длина наименования, символов · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-create-card) | 02.11.2026 |
 | Фото | 4,5:1 для мелкого шрифта и 3:1 для крупного | контраст текста на фото · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-improve-photos-and-videos-in-a-card?categoryId=how-to-improve-item-card&goBackOption=prevRoute) | 27.07.2026 |
 | Фото | 2 | минимум фото, иначе карточка не попадает в поиск · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-improve-photos-and-videos-in-a-card?categoryId=how-to-improve-item-card&goBackOption=prevRoute) | 27.07.2026 |
 | Фото | JPG, PNG, WEBP | форматы файла фото товара · [seller.wildberries.ru](https://seller.wildberries.ru/instructions/ru/ru/material/how-to-improve-photos-and-videos-in-a-card?categoryId=how-to-improve-item-card&goBackOption=prevRoute) | 27.07.2026 |
@@ -85,14 +85,15 @@
 
 ## Журнал сверок
 
+- 02.11.2026 — сверено правил: 8 (Wildberries)
 - 01.11.2026 — сверено правил: 1 (Яндекс Маркет)
 - 26.10.2026 — сверено правил: 6 (Ozon, Wildberries)
 - 23.10.2026 — сверено правил: 2 (Ozon)
-- 16.10.2026 — сверено правил: 18 (Ozon, Wildberries, Яндекс Маркет)
+- 16.10.2026 — сверено правил: 11 (Ozon, Яндекс Маркет)
 - 29.08.2026 — сверено правил: 16 (Яндекс Маркет)
 - 25.08.2026 — сверено правил: 1 (Wildberries)
 - 12.08.2026 — сверено правил: 3 (Яндекс Маркет)
-- 02.08.2026 — сверено правил: 11 (Ozon, Wildberries)
+- 02.08.2026 — сверено правил: 10 (Ozon, Wildberries)
 - 27.07.2026 — сверено правил: 5 (Wildberries)
 
 ## Как читать реестр
